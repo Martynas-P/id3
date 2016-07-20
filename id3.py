@@ -1,4 +1,3 @@
-from collections import Counter
 import math
 
 """All calculations are based on vectors, where the last item is the target class"""
